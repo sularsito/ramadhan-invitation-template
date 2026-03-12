@@ -33,13 +33,13 @@ export default function RSVP() {
     // =============================================
     // 🔧 KUSTOMISASI: Ganti data berikut sesuai acara Anda
     // =============================================
-    const whatsappNumber = '628XXXXXXXXXX';         // Nomor WhatsApp tujuan
+    const whatsappNumber = 6289679586501;         // Nomor WhatsApp tujuan
     const BIAYA_PER_ORANG = 50000;                  // Biaya per peserta dewasa
-    const NAMA_ACARA = 'Buka Puasa Bersama';        // Nama acara
-    const NAMA_PENYELENGGARA = 'Perusahaan Anda';   // Nama perusahaan/penyelenggara
-    const BANK_NAME = 'BCA';                        // Nama bank
-    const BANK_ACCOUNT = '0000000000';               // Nomor rekening
-    const BANK_HOLDER = 'Nama Pemilik Rekening';     // Nama pemilik rekening
+    const NAMA_ACARA = Buka Puasa Bersama;        // Nama acara
+    const NAMA_PENYELENGGARA = LSP Klining Servis;   // Nama perusahaan/penyelenggara
+    const BANK_NAME = BCA;                        // Nama bank
+    const BANK_ACCOUNT = 7015001593;               // Nomor rekening
+    const BANK_HOLDER = Sularsito;     // Nama pemilik rekening
     // 🔧 Deadline (opsional): Set true dan isi tanggal untuk mengaktifkan countdown
     const ENABLE_DEADLINE = false;
     const DEADLINE_DATE = new Date('2025-12-31T23:59:59').getTime();
