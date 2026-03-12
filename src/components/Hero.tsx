@@ -35,8 +35,8 @@ export default function Hero() {
                 variants={revealVariants}
             >
                 <motion.div className="logo-container" variants={itemVariants}>
-                    <h2 className="logo-text">NAMA</h2>
-                    <p className="logo-subtext">PERUSAHAAN</p>
+                    <h2 className="logo-text">LSP</h2>
+                    <p className="logo-subtext">LSP KLINING SERVIS</p>
                 </motion.div>
                 <div className="invitation-details">
                     <motion.p className="pre-title" variants={itemVariants}>Undangan</motion.p>
