@@ -35,7 +35,7 @@ export default function EventDetails() {
                 <motion.p className="story-text" variants={itemVariants}>
                     Momen kebersamaan di bulan suci Ramadhan adalah saat yang istimewa untuk menyambung silaturahmi.
                     <br /><br />
-                    Oleh karena itu, kami <span className="highlight">Nama Perusahaan Anda</span> mengundang
+                    Oleh karena itu, kami <span className="highlight">LSP Klining Servis</span> mengundang
                     Bapak/Ibu/Saudara/i untuk hadir pada acara Buka Puasa Bersama yang Insya Allah akan dilaksanakan
                     pada:
                 </motion.p>
