@@ -45,7 +45,7 @@ export default function EventDetails() {
                         <div className="icon">📅</div>
                         <div className="info">
                             <h3>Hari & Tanggal</h3>
-                            <p>Sabtu, 1 Maret 2025</p>
+                            <p>Minggu, 15 Maret 2026</p>
                         </div>
                     </div>
                     <div className="event-row">
@@ -54,7 +54,7 @@ export default function EventDetails() {
                             <h3>Tempat</h3>
                             <p>
                                 <a href="#" target="_blank" rel="noreferrer" className="ig-link">
-                                    Nama Restoran / Tempat Acara
+                                    Rumah Mba Sri / Lantai Bawah deket parkir motor
                                 </a>
                             </p>
                         </div>
