@@ -3,12 +3,12 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 const pictures = [
-    "placeholder-1.jpg",
-    "placeholder-2.jpg",
-    "placeholder-3.jpg",
-    "placeholder-4.jpg",
-    "placeholder-5.jpg",
-    "placeholder-6.jpg"
+    "family1.jpg",
+    "family2.jpg",
+    "family3.jpg",
+    "family4.jpg",
+    "family5.jpg",
+    "family6.jpg"
 ];
 
 const revealVariants = {
